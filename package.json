@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "react-practice",
+=======
+  "name": "anime-shop",
+>>>>>>> 1c8ebacf8fb241b7e4d25f95383440e05c7e436f
   "private": true,
   "version": "0.0.0",
   "type": "module",
